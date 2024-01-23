@@ -1,0 +1,1 @@
+uygulama çalışması için ilk başta "SQLite_database" kalsöründe bulunan "server.py" çalıştırmalı (çünkü veritaban api ile ona bağlı) ondan sonra uygulama doğru bir şekilde çalışır.

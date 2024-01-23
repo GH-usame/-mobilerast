@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448352065422",
+    "project_id": "rast-mobile-flutter",
+    "storage_bucket": "rast-mobile-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448352065422:android:3864480df8b7126667f6df",
+        "android_client_info": {
+          "package_name": "com.example.rast_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbws3FzREAP-Alv1tVZzz_5He0aXqBGVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
